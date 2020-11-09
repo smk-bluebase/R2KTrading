@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <solid
+                android:color="@color/gainsboro" />
+            <corners
+                android:topLeftRadius="10dp"
+                android:topRightRadius="200dp"
+                android:bottomRightRadius="200dp"
+                android:bottomLeftRadius="200dp"/>
+        </shape>
+    </item>
+</selector>
